@@ -1,1 +1,1 @@
-# odin-recipes
+I have successfully learned how to command the terminal again after reattempting this course.
